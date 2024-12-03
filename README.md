@@ -2,8 +2,8 @@
 
 ---
 
-Author:- TejaswiniSR sonone
-place:-pune
+Author:- TejaswiniSR 
+
 
 
  
